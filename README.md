@@ -1,9 +1,9 @@
 # CMPE 012 Final Project: CRUD To-Do List Application
 
 ## Group Members
-1. **[Your Name Here]** - Leader
-2. **[Group Member 2 Name]**
-3. **[Group Member 3 Name]**
+1. **[Mirasol, Egieson]** - Leader
+2. **[Rural, Juris]**
+3. **[Militante, Jervince]**
 
 ## Project Description
 A To-Do List application implementing all CRUD (Create, Read, Update, Delete) operations using JavaScript and LocalStorage for persistent data storage.
@@ -36,11 +36,3 @@ A To-Do List application implementing all CRUD (Create, Read, Update, Delete) op
 1. Download all project files
 2. Double-click `index.html`
 3. The app opens in your default browser
-
-### Method 2: Live Server (Recommended)
-1. Install Visual Studio Code
-2. Install "Live Server" extension
-3. Right-click `index.html` → "Open with Live Server"
-4. App runs at: http://localhost:5500
-
-## File Structure
